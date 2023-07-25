@@ -1,0 +1,288 @@
+ *{
+	 margin:0;
+	 padding:0;
+	 box-sizing:border-box;
+ }
+ 
+ .container{
+	 width:90%;
+	 margin: 0 auto;
+ }
+ 
+ .row{
+	 display:flex;
+	 flex-wrap:wrap;
+	 }
+ 
+ .col1{
+	 width:8.33%;
+	 padding:0 15px;
+ }
+ 
+ .col2{
+	 width:16.66%;
+	 padding:0 15px;
+ }
+ 
+ .col3{
+	 width:25%;
+	 padding:0 15px;
+ }
+ 
+ .col4{
+	 width:33.32%;
+	 padding:0 15px;
+ }
+ 
+ .col5{
+	 width:41.65%;
+	 padding:0 15px;
+ }
+ 
+ .col6{
+	 width:50%;
+	 padding:0 15px;
+ }
+ 
+ .col7{
+	 width:58.31%;
+	 padding:0 15px;
+ }
+ 
+ .col8{
+	 width:66.64%;
+	 padding:0 15px;
+ }
+ 
+ .col9{
+	 width:75%;
+	 padding:0 15px;
+ }
+ 
+ .col10{
+	 width:83.33%;
+	 padding:0 15px;
+ }
+ 
+ .col11{
+	 width:91.63%;
+	 padding:0 15px;
+ }
+ 
+ .col12{
+	 width:100%;
+	 padding:0 15px;
+ }
+ 
+ #header{
+	 background-color:blue;
+	 padding:10px 0;
+ }
+ 
+ .card1{
+	 background-color:black;
+	 height:40px;
+ }
+ 
+ .card2{
+	 background-color:black;
+	 height:40px;
+ }
+ 
+
+ 
+ #section1{
+	 background-color:black;
+	 padding:100px 0;
+	 
+ }
+ 
+ .image1{
+	 background-color:red;
+	 height:255px;
+	 margin-top: 84px;
+	 
+ }
+ 
+ #section2{
+	 background-color:red;
+	 padding:100px 0;
+ }
+ 
+ .about1{
+	 background-color:black;
+	 height:100px;
+ }
+ 
+ .about2{
+	 background-color:black;
+	 height:200px;
+	 margin-top:20px;
+ }
+
+ #section3{
+	background-color:black;
+	padding:100px 0;
+ }
+ 
+ .box{
+	 background-color:green;
+	 height:100px;
+ }
+ 
+ #section4{
+	 background-color:green;
+	 padding:80px 0;
+ }
+ 
+ .box1{
+	 background-color:black;
+	 height:350px;
+ }
+ .box2{
+	 background-color:black;
+	 height:200px;
+ }
+ 
+ #section5{
+	 background-color:black;
+	 padding:80px 0;'
+ }
+ 
+ .bg1{
+	 background-color:green;
+	 height:40px;
+ }
+ 
+ .bg{
+	 background-color:green;
+	 height:184px;
+	 margin-top: 20px;
+ }
+ 
+ 
+ #section6{
+	 background-color:green;
+	 padding:80px 0;'
+ }
+ 
+ .testimonials{
+	 background-color:black;
+	 height:50px;
+ }
+ 
+ .testimonials1{
+	 background-color:black;
+	 height:184px;
+	 margin-top:20px;
+ }
+ 
+ #section7{
+	 background-color:black;
+	 padding:80px 0;
+ }
+ 
+ .action{
+	 background-color:green;
+	 height:100px;
+ }
+ 
+ #section8{
+	 background-color:green;
+	 padding:80px 0;'
+ }
+ 
+ .port{
+	 background-color:black;
+	 height:40px;
+ }
+ 
+ .port1{
+	 background-color:black;
+	 height:184px;
+	 margin-top: 20px;
+ }
+ 
+ #section9{
+	 background-color:black;
+	 padding:80px 0;'
+ }
+ 
+ .team{
+	 background-color:green;
+	 height:40px;
+ }
+ 
+ .team1{
+	 background-color:green;
+	 height:184px;
+	 margin-top: 20px;
+ }
+ 
+ 
+ 
+  #section10{
+	 background-color:green;
+	 padding:80px 0;'
+ }
+ 
+ .faq{
+	 background-color:black;
+	 height:40px;
+ }
+ 
+ .faq1{
+	 background-color:black;
+	 height:100px;
+	 margin-top:10px;
+ }
+ 
+ 
+  #section11{
+	 background-color:black;
+	 padding:80px 0;'
+ }
+ 
+ .contact{
+	 background-color:green;
+	 height:40px;
+ }
+
+.email1{
+	 background-color:green;
+	 height:130px;
+	 margin-top:20px;
+ }
+	 
+ 
+ .email2{
+	 background-color:green;
+	 height:120px;
+	 margin-top:20px;
+ }
+ 
+ .contact2{
+	 background-color:green;
+	 height:270px;
+	 margin-top:20px;
+ }
+	 
+  #section12{
+	  background-color:green;
+	  padding:80px 0;
+  }
+  
+  .address{
+	  background-color:black;
+	  height:270px;
+  }
+  
+  .address1{
+	  background-color:black;
+	  height:150px;
+  }
+  
+  .address2{
+	  background-color:black;
+	  height:100px;
+  }
